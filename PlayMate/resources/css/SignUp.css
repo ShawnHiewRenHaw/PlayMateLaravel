@@ -1,0 +1,46 @@
+.Signup h1{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 80vh;
+    margin-top: 2vh;
+}
+.username_ {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 80vh;
+    margin-top: 2vh;
+    
+    
+}
+.password_ {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 80vh;
+    margin-top: 1vh;
+}
+.repassword_ {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 80vh;
+    margin-top: 1vh;
+
+}
+
+.button_ {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 80vh;
+    margin-top: 1vh;
+}
+
+
+.error{
+    display: flex;
+    margin-top: 1vh;
+    margin-left: 80vh;
+}
